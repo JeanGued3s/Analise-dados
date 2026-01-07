@@ -13,6 +13,3 @@ Desenvolvi no projeto:
 - categória das vendas e as sub-categórias.
 
  Para visualição o arquivo se encontra [Vendas.pdf](https://github.com/user-attachments/files/24481504/Vendas.pdf)
-
- Meu linkedin https://www.linkedin.com/in/jean-da-silva-guedes-87925a395/
-  
