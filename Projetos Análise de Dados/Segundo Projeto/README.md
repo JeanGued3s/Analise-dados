@@ -15,4 +15,4 @@ O objetivo do projeto foi fornecer uma visão clara dos resultados financeiros d
 Meu assessoramento séria reorganizar o estoque tendo em vista a falta de muitos produtos. Repondo aos poucos para ver qual produto 
 sairia/venderia mais e após isso fazer um pente fino para reduzir quantidade para trabalhar com qualidade.
 
-Para visualição o arquivo se encontra[Lucros.pdf](https://github.com/user-attachments/files/24484660/Lucros.pdf)
+Para visualição o arquivo se encontra [Lucros.pdf](https://github.com/user-attachments/files/24585503/Lucros.pdf)
